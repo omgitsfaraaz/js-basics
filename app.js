@@ -66,3 +66,7 @@ function subtract(x, y) {
 }
 
 subtract(45, 9);
+
+// hoisting
+console.log(t);
+var t = 1000;
