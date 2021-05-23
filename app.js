@@ -59,3 +59,10 @@ switch (percentage) {
         console.log('First Class');
         break;
 }
+
+// function
+function subtract(x, y) {
+    console.log(x - y);
+}
+
+subtract(45, 9);
